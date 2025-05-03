@@ -72,13 +72,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## 🖼️ Screenshots
 
 ### 🧪 Quiz Interface
-![Quiz Interface](screenshots/Screenshot%202025-05-03%20183506.png)
+![Quiz Interface](assets/Screenshot%202025-05-03%20183506.png)
 
 ### ✅ Result Page
-![Result Page](screenshots/Screenshot%202025-05-03%20183550.png)
+![Result Page](assets/Screenshot%202025-05-03%20183550.png)
 
 ### ⏱️ File Structuring
-![File Structuring](screenshots/Screenshot%2025-05-03%183715.png)
+![File Structuring](assets/Screenshot%2025-05-03%183715.png)
 
 ### 📋 Rules Page
-![Rules Page](screenshots/Screenshot%202025-05-03%20183715.png)
+![Rules Page](assets/Screenshot%202025-05-03%20183715.png)
