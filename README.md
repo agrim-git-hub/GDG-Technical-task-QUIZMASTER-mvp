@@ -81,4 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![File Structuring](assets/Screenshot%202025-05-03%20183715.png)
 
 ### 📋 Rules Page
-![Rules Page](assets/Screenshot%202025-05-03%20183715.png)
+![Rules Page](![Rules Page](assets/Screenshot-Rules-Page.png))

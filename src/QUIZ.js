@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './App.css';
+import './QUIZ.css';
 
 const questions = [
   {question: "What is the capital of India?",
