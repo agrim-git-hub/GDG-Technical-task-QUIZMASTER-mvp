@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GDG-Technical-task-QUIZMASTER-mvp/static/css/main.e3fc0385.css",
+    "main.js": "/GDG-Technical-task-QUIZMASTER-mvp/static/js/main.0039923b.js",
+    "static/js/453.f871ce1a.chunk.js": "/GDG-Technical-task-QUIZMASTER-mvp/static/js/453.f871ce1a.chunk.js",
+    "index.html": "/GDG-Technical-task-QUIZMASTER-mvp/index.html",
+    "main.e3fc0385.css.map": "/GDG-Technical-task-QUIZMASTER-mvp/static/css/main.e3fc0385.css.map",
+    "main.0039923b.js.map": "/GDG-Technical-task-QUIZMASTER-mvp/static/js/main.0039923b.js.map",
+    "453.f871ce1a.chunk.js.map": "/GDG-Technical-task-QUIZMASTER-mvp/static/js/453.f871ce1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3fc0385.css",
+    "static/js/main.0039923b.js"
+  ]
+}
